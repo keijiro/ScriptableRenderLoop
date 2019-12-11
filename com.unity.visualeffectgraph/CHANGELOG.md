@@ -47,6 +47,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Subgraph operators appear on drag edge on graph.
 - Sample Scene Color & Scene Depth from Shader Graph Integration using High Definition and Universal Render Pipeline
 - Removed Unnecessary reference to HDRP Runtime Assembly in VFX Runtime Assembly
+- Fix typo in view direction computation with Shader Graph integration
 
 ## [7.1.1] - 2019-09-05
 ### Added
